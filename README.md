@@ -1,7 +1,7 @@
 # CultureBERT
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/Stefan-Pasch/CultureBERT/blob/main/Tutorial_CultureBERT.ipynb)
 
-**Tutorial for CultureBERT, a transformer-based language model to measure corporate culture**
+**Tutorial: Predict Corporate Culture with CultureBERT**
 
 CultureBERT fine-tuned RoBERTa-large, a transformer-based language model, to classify corporate culture. CultureBERT was trained on 1,400 employee reviews and it predicts corporate culture based on the four culture dimensions of the Competing Values Framework (CVF).
 
