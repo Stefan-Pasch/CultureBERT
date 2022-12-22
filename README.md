@@ -3,7 +3,7 @@
 
 **Tutorial for CultureBERT, a transformer-based language model to measure corporate culture**
 
-CultureBERT fine-tuned RoBERTa-large, a transformer-based language model, to classify **corporate culture**. CultureBERT was trained on 1,400 employee reviews and it predicts corporate culture based on the four culture dimensions of the Competing Values Framework (CVF).
+CultureBERT fine-tuned RoBERTa-large, a transformer-based language model, to classify corporate culture. CultureBERT was trained on 1,400 employee reviews and it predicts corporate culture based on the four culture dimensions of the Competing Values Framework (CVF).
 
 You can use this notebook to directly use CultureBERT to predict corporate culture on your own text. Using this tutorial/notebook does not require deeper knowledge on transformer-based models and natural language processing (NLP).  
 
