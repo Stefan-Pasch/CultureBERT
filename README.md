@@ -7,6 +7,6 @@ CultureBERT fine-tuned RoBERTa-large, a transformer-based language model, to cla
 
 You can use this notebook to apply CultureBERT to predict corporate culture on your own text. Using this tutorial/notebook does not require deeper knowledge of transformer-based models and natural language processing (NLP).  
 
-Please cite: Koch, Sebastian; Pasch, Stefan (2022): CultureBERT: Fine-Tuning Transformer Based Language Models for Corporate Culture. Available online at http://arxiv.org/abs/2212.00509.
+Please cite: Koch, Sebastian; Pasch, Stefan (2022): CultureBERT: Measuring Corporate Culture With Transformer-Based Language Models. Available online at http://arxiv.org/abs/2212.00509.
 
 Check: https://huggingface.co/CultureBERT/
